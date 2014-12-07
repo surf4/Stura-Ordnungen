@@ -1,0 +1,87 @@
+% die folgende Zeile sorgt für normalen Druck
+\documentclass[10pt,a4paper,smallheadings,halfparskip,cleardoubleplain,pagesize,notitlepage,oneside,tocleft]{scrartcl}
+% die folgende Zeile sorgt für Entwurfsdruck, also ohne Bilder und sowas
+%\documentclass[10pt,a4paper,smallheadings,halfparskip,cleardoubleplain,pagesize,notitlepage,twoside,tocleft,draft]{scrartcl}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[bindingoffset=0.5cm,inner=1.5cm,outer=1.5cm,top=1cm,bottom=1cm,includeheadfoot]{geometry}
+\usepackage{units}   %nötig für die netten Brüche
+\usepackage{multicol}  %nötig für schönen zweispaltigen Satz
+
+\addtokomafont{section}{\centering}  %  ist format für Paragrafen
+\addtokomafont{subsection}{\centering}  %  ist format für Absätze
+\renewcommand*{\raggedsection}{\centering} % sorgt für mittige Kapitelüberschriften
+
+\newcounter{absatz}[section] %zhler fr abstze
+\newcounter{sentence}[absatz] %zhler fr stze
+
+\renewcommand*{\thesection}{\S\ensuremath{\,}\arabic{section}} %ausgabeformat fr paragraphen
+\renewcommand*{\theabsatz}{(\arabic{absatz})}   % ausgabeformat fr absatzzhler
+
+%\setcounter{secnumdepth}{5} % damit bis zur Ebene paragraph die Zhler ausgegeben werden
+%\setcounter{tocdepth}{1} %damit nur die kapitelberschriften im inhaltsverzeichnis sind
+
+%Absatzzhler
+\newcommand*{\Abs}{\stepcounter{absatz}\theabsatz}
+
+%Satzzhler
+\renewcommand{\.}{. \Satz} %Definiert \. um auf \Satz, damit dieses Zeichen ebenfalls fr eine Satzzhlung sorgt.
+\newcommand{\Satz}[1][\thesentence]{\stepcounter{sentence}\setcounter{sentence}{#1}\textsuperscript{\thesentence}}
+\newcommand{\s}{\Satz}  %Michas altes Kommando fr Satzzhler; ich war zu faul, alles zu ersetzen; betrifft: S, GO, AEO
+
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{1cm}
+\setlength{\columnseprule}{0.5pt}
+%\pagestyle{myheadings}
+%\markboth{Studentenrat der TU Dresden}{}
+\hyphenation{Ta-ges-ord-nungs-punkte}
+
+\begin{document}
+%Kopfzeile Titelseite
+ \titlehead{
+    \begin{tabular}[b]{c}
+    \includegraphics[height=2.1cm,keepaspectratio=true]{Logo_Graustufen.jpg}\\ %fr kleine Dateien
+%     \includegraphics[height=1.5cm,keepaspectratio=true]{StuRa-logo.jpg}\\ %fr grere Dateien
+%    \large{\textbf{STUDENTENRAT}}
+    \end{tabular}
+    \hfill
+    \includegraphics[height=1.7cm,keepaspectratio=true]{tu_logo_sw.pdf}
+    \vskip5pt \hrule
+    }
+    
+    
+    
+%berschriftenzeile auf Titelseite --> in \title muss der jeweilige titel eingefgt werden
+ \vspace{3cm}
+ \title{Finanzordnung\\des Studentenrates der TU Dresden}
+ \author{\normalsize{Erstellt am \today.}}
+ \date{\ }
+%Titel ausgeben
+ \maketitle
+ 
+%TOC (Liste aller Paragraphen zweispaltig auf Titelseite ausgeben)
+%\begin{multicols}{2}
+\tableofcontents
+%\end{multicols}
+
+%jeweiliges Hauptdokument einbinden
+\normalsize
+
+%		 \include{heft-grundordnung-col}
+%    \include{heft-mitgliedschaftsordnung-col}
+%    \include{heft-satzung-col}
+%    \include{heft-satzung-db-col}
+%   \include{heft-geschaeftsordnung-col}
+%    \include{heft-geschaeftsordnung-db-col}
+%    \include{heft-finanzordnung}
+%    \include{heft-foerderrichtlinie-col}
+%    \include{heft-beitragsordnung-col}
+%    \include{heft-haertefallordnung}
+%    \include{heft-rechnernutzungsrichtlinie-col}
+%    \include{heft-hochschulgruppenrichtlinie-col}
+%    \include{heft-materialverleihrichtlinie-col}
+
+
+\end{document}
