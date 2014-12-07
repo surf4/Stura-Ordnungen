@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.3)  8 DEC 2014 00:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.3)  8 DEC 2014 00:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -523,18 +523,18 @@ Package: multicol 2014/04/23 v1.8e multicolumn formatting (FMi)
 (./Einzelordnung.aux)
 \openout1 = `Einzelordnung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -629,29 +629,29 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 63.
+(Font)              <7> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 63.
+(Font)              <5> on input line 65.
 <bilder/Logo_Graustufen.jpg, id=1, 270.16936pt x 117.5592pt>
 File: bilder/Logo_Graustufen.jpg Graphic file (type jpg)
 
 <use bilder/Logo_Graustufen.jpg>
-Package pdftex.def Info: bilder/Logo_Graustufen.jpg used on input line 63.
+Package pdftex.def Info: bilder/Logo_Graustufen.jpg used on input line 65.
 (pdftex.def)             Requested size: 137.31458pt x 59.75095pt.
 
 <bilder/TU_Logo_SW.pdf, id=2, 256.157pt x 74.31766pt>
 File: bilder/TU_Logo_SW.pdf Graphic file (type pdf)
 
 <use bilder/TU_Logo_SW.pdf>
-Package pdftex.def Info: bilder/TU_Logo_SW.pdf used on input line 63.
+Package pdftex.def Info: bilder/TU_Logo_SW.pdf used on input line 65.
 (pdftex.def)             Requested size: 166.71895pt x 48.36958pt.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 63.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 65.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 63.
+(Font)              <14.4> on input line 65.
 
 (./Einzelordnung.toc)
 \tf@toc=\write3
@@ -668,7 +668,7 @@ r/Logo_Graustufen.jpg> <./bilder/TU_Logo_SW.pdf>]
 Here is how much of TeX's memory you used:
  4370 strings out of 493117
  64843 string characters out of 6135434
- 178940 words of memory out of 5000000
+ 178941 words of memory out of 5000000
  7754 multiletter control sequences out of 15000+600000
  8378 words of font info for 22 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
@@ -678,7 +678,7 @@ uper/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-
 super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-su
 per/sfsx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-supe
 r/sfsx2074.pfb>
-Output written on Einzelordnung.pdf (1 page, 99251 bytes).
+Output written on Einzelordnung.pdf (1 page, 99253 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
