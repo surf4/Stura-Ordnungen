@@ -9,27 +9,27 @@
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage[bindingoffset=0.5cm,inner=1.5cm,outer=1.5cm,top=1cm,bottom=1cm,includeheadfoot]{geometry}
-\usepackage{units}     %nötig für die netten Brüche
-\usepackage{multicol}  %nötig für schönen zweispaltigen Satz
+\usepackage{units}     %Brüche
+\usepackage{multicol}  %Zweispaltigen Satz
 
-\addtokomafont{section}{\centering}  %  ist format für Paragrafen
-\addtokomafont{subsection}{\centering}  %  ist format für Absätze
-\renewcommand*{\raggedsection}{\centering} % sorgt für mittige Kapitelüberschriften
+\addtokomafont{section}{\centering}  %Format für Paragrafen
+\addtokomafont{subsection}{\centering}  %Format für Absätze
+\renewcommand*{\raggedsection}{\centering} %Mittige Kapitelüberschriften
 
 \newcounter{absatz}[section] %Zähler für Absätze
 \newcounter{sentence}[absatz] %Zähler für Sätze
 
-\renewcommand*{\thesection}{\S\ensuremath{\,}\arabic{section}} %ausgabeformat fr paragraphen
-\renewcommand*{\theabsatz}{(\arabic{absatz})}   % ausgabeformat fr absatzzhler
+\renewcommand*{\thesection}{\S\ensuremath{\,}\arabic{section}} %Ausgabeformat für Paragraphen
+\renewcommand*{\theabsatz}{(\arabic{absatz})}   %Ausgabeformat für Absatzzähler
 
-%\setcounter{secnumdepth}{5} % damit bis zur Ebene paragraph die Zhler ausgegeben werden
-%\setcounter{tocdepth}{1} %damit nur die kapitelberschriften im inhaltsverzeichnis sind
+%\setcounter{secnumdepth}{5} %Bis zur Ebene Paragraph wird ein Zähler ausgegeben
+%\setcounter{tocdepth}{1} %Nur Kapitelüberschriften im Inhaltsverzeichnis
 
-%Absatzzhler
+%Absatzzähler
 \newcommand*{\Abs}{\stepcounter{absatz}\theabsatz}
 
-%Satzzhler
-\renewcommand{\.}{. \Satz} %Definiert \. um auf \Satz, damit dieses Zeichen ebenfalls fr eine Satzzhlung sorgt.
+%Satzzähler
+\renewcommand{\.}{. \Satz} %Definiert \. um auf \Satz, damit dieses Zeichen ebenfalls für eine Satzzählung sorgt.
 \newcommand{\Satz}[1][\thesentence]{\stepcounter{sentence}\setcounter{sentence}{#1}\textsuperscript{\thesentence}}
 \newcommand{\s}{\Satz}  %Michas altes Kommando fr Satzzhler; ich war zu faul, alles zu ersetzen; betrifft: S, GO, AEO
 
@@ -44,18 +44,14 @@
 %Kopfzeile Titelseite
  \titlehead{
     \begin{tabular}[b]{c}
-    \includegraphics[height=2.1cm,keepaspectratio=true]{bilder/Logo_Graustufen.jpg}\\ %fr kleine Dateien
-%     \includegraphics[height=1.5cm,keepaspectratio=true]{StuRa-logo.jpg}\\ %fr grÃ¶Ãere Dateien
-%    \large{\textbf{STUDENTENRAT}}
+    \includegraphics[height=2.1cm,keepaspectratio=true]{bilder/Logo_Graustufen.jpg}\\
     \end{tabular}
     \hfill
     \includegraphics[height=1.7cm,keepaspectratio=true]{bilder/TU_Logo_SW.pdf}
     \vskip5pt \hrule
     }
-    
-    
-    
-%berschriftenzeile auf Titelseite --> in \title muss der jeweilige titel eingefgt werden
+
+%Überschriftenzeile auf Titelseite --> in \title muss der jeweilige Titel eingefügt werden
  \vspace{3cm}
  \title{Finanzordnung\\des Studierendenrates der TU Dresden}
  \author{\normalsize{Erstellt am \today.}}
@@ -70,21 +66,18 @@
 
 %jeweiliges Hauptdokument einbinden
 \normalsize
+%\include{heft-grundordnung-col}
+%\include{heft-mitgliedschaftsordnung-col}
+%\include{heft-satzung-col}
+%\include{heft-satzung-db-col}
+%\include{heft-geschaeftsordnung-col}
+%\include{heft-geschaeftsordnung-db-col}
+\include{Finanzordnung/heft-finanzordnung}
+%\include{heft-foerderrichtlinie-col}
+%\include{heft-beitragsordnung-col}
+%\include{heft-haertefallordnung}
+%\include{heft-rechnernutzungsrichtlinie-col}
+%\include{heft-hochschulgruppenrichtlinie-col}
+%\include{heft-materialverleihrichtlinie-col}
 
-%		 \include{heft-grundordnung-col}
-%    \include{heft-mitgliedschaftsordnung-col}
-%    \include{heft-satzung-col}
-%    \include{heft-satzung-db-col}
-%   \include{heft-geschaeftsordnung-col}
-%    \include{heft-geschaeftsordnung-db-col}
-%    \include{heft-finanzordnung}
-%    \include{heft-foerderrichtlinie-col}
-%    \include{heft-beitragsordnung-col}
-%    \include{heft-haertefallordnung}
-%    \include{heft-rechnernutzungsrichtlinie-col}
-%    \include{heft-hochschulgruppenrichtlinie-col}
-%    \include{heft-materialverleihrichtlinie-col}
-
-\newpage
-ä ö ü ß
 \end{document}
