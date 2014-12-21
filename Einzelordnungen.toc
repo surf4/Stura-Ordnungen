@@ -1,46 +1,4 @@
 \select@language {ngerman}
-\contentsline {section}{\numberline {\S \ensuremath {\,}1}\IeC {\"U}bergeordnete Bestimmungen}{3}
-\contentsline {section}{\numberline {\S \ensuremath {\,}2}Wahl}{3}
-\contentsline {section}{\numberline {\S \ensuremath {\,}3}Aufgaben}{3}
-\contentsline {section}{\numberline {\S \ensuremath {\,}4}Bevollm\IeC {\"a}chtigung von Vertreterinnen}{4}
-\contentsline {section}{\numberline {\S \ensuremath {\,}5}Grundlagen}{4}
-\contentsline {section}{\numberline {\S \ensuremath {\,}6}Wirtschaftsjahr}{4}
-\contentsline {section}{\numberline {\S \ensuremath {\,}7}Veranschlagung der Ertr\IeC {\"a}ge, Aufwendungen und Konten}{4}
-\contentsline {section}{\numberline {\S \ensuremath {\,}8}Verwendung der Einnahmemittel}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}9}Deckungsf\IeC {\"a}hige Konten}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}10}Nachtragswirtschaftsplan}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}11}Ver\IeC {\"o}ffentlichung}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}12}Inkrafttreten}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}13}Bedeutung des Wirtschaftsplanes gegen\IeC {\"u}ber Dritten}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}14}Vorl\IeC {\"a}ufige Wirtschaftsf\IeC {\"u}hrung}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}15}R\IeC {\"u}cklagen}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}16}Verwaltung der Mittel durch Fachschaften}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}17}Au\IeC {\ss }erplanm\IeC {\"a}\IeC {\ss }ige Ausgaben}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}18}Einhaltung des Wirtschaftsplanes}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}19}Vorausleistungen}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}20}Verantwortlichkeit}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}21}Kassenverwalterin}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}22}Zahlungsverkehr}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}23}Kassenf\IeC {\"u}hrung}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}24}Kassenanordnungen}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}25}Buchf\IeC {\"u}hrung}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}26}Abschreibung}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}27}Inventarverzeichnis}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}28}Rechnungslegung}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}29}Sicherung der wirtschaftlichen Verwahrung}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}30}Begleichung von Rechnungen}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}31}Anschaffung und Ver\IeC {\"a}u\IeC {\ss }erung von Eigentum}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}32}Anmeldepflicht von Ausgaben}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}33}Studentische Projekte}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}34}B\IeC {\"u}rgschaften und Darlehen}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}35}L\IeC {\"a}ngerfristige Verpflichtungen}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}36}Beitragspflichtige Mitgliedschaft}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}37}Ausgaben von erheblicher H\IeC {\"o}he}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}38}Reisekosten}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}39}Bewirtungen}{11}
-\contentsline {section}{\numberline {\S \ensuremath {\,}40}Allgemeines zu Aufwandsentsch\IeC {\"a}digungen}{11}
-\contentsline {section}{\numberline {\S \ensuremath {\,}41}Zahlung der Aufwandsentsch\IeC {\"a}digungen}{11}
-\contentsline {section}{\numberline {\S \ensuremath {\,}42}Verfahren der Pr\IeC {\"u}fung}{12}
-\contentsline {section}{\numberline {\S \ensuremath {\,}43}Bekanntgabe des Pr\IeC {\"u}fungsergebnisses}{12}
-\contentsline {section}{\numberline {\S \ensuremath {\,}44}Jahresabschlusspr\IeC {\"u}fung}{12}
-\contentsline {section}{\numberline {\S \ensuremath {\,}45}Rechnungspr\IeC {\"u}fung durch staatliche Stellen}{12}
+\contentsline {section}{\numberline {\S \ensuremath {\,}1}Ausleihberechtigte}{2}
+\contentsline {section}{\numberline {\S \ensuremath {\,}2}Ausleihbedingungen}{2}
+\contentsline {section}{\numberline {\S \ensuremath {\,}3}Schlussbestimmungen}{2}
