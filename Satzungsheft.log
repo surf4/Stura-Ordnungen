@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.3)  21 DEC 2014 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.3)  21 DEC 2014 21:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Einzelordnungen.tex
-(./Einzelordnungen.tex
+**Satzungsheft.tex
+(./Satzungsheft.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrartcl.cls
-Document Class: scrartcl 2013/12/19 v3.12 KOMA-Script document class (article)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2013/12/19 v3.12 KOMA-Script document class (book)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
@@ -32,74 +32,49 @@ Package: tocbasic 2013/12/19 v3.12 KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 115.
+(tocbasic)             for `toc' on input line 117.
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 116.
+(tocbasic)             for `lof' on input line 118.
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 117.
-Package scrartcl Info: You've used standard option `10pt'.
-(scrartcl)             This is correct!
-(scrartcl)             Internally I'm using `fontsize=10pt'.
-(scrartcl)             If you'd like to set the option with \KOMAoptions,
-(scrartcl)             you'd have to use `fontsize=10pt' there
-(scrartcl)             instead of `10pt', too.
+(tocbasic)             for `lot' on input line 119.
+Package tocbasic Info: defining new hook before heading of `' on input line 111
+8.
+Package scrbook Info: You've used standard option `10pt'.
+(scrbook)             This is correct!
+(scrbook)             Internally I'm using `fontsize=10pt'.
+(scrbook)             If you'd like to set the option with \KOMAoptions,
+(scrbook)             you'd have to use `fontsize=10pt' there
+(scrbook)             instead of `10pt', too.
 
 
-Class scrartcl Warning: You've used obsolete option `smallheadings'.
-(scrartcl)              Usage of this option indicates an old document and
-(scrartcl)              is deprecated.
-(scrartcl)              You should simply replace
-(scrartcl)              usage of option `smallheadings' by `headings=small'.
+Class scrbook Warning: You've used obsolete option `smallheadings'.
+(scrbook)              Usage of this option indicates an old document and
+(scrbook)              is deprecated.
+(scrbook)              You should simply replace
+(scrbook)              usage of option `smallheadings' by `headings=small'.
 
-Class scrartcl Info: Switching compatibility level to `first'.
+Class scrbook Info: Switching compatibility level to `first'.
 
-Class scrartcl Warning: You've used obsolete option `halfparskip'.
-(scrartcl)              Usage of this option indicates an old document and
-(scrartcl)              is deprecated.
-(scrartcl)              You should simply replace
-(scrartcl)              usage of option `halfparskip' by `parskip=half'.
+Class scrbook Warning: You've used obsolete option `halfparskip'.
+(scrbook)              Usage of this option indicates an old document and
+(scrbook)              is deprecated.
+(scrbook)              You should simply replace
+(scrbook)              usage of option `halfparskip' by `parskip=half'.
 
-Class scrartcl Info: Switching compatibility level to `first'.
+Class scrbook Info: Switching compatibility level to `first'.
 
-Class scrartcl Warning: You've used obsolete option `cleardoubleplain'.
-(scrartcl)              Usage of this option indicates an old document and
-(scrartcl)              is deprecated.
-(scrartcl)              You should simply replace
-(scrartcl)              usage of option `cleardoubleplain' by `cleardoublepage=
-plain'.
+Class scrbook Warning: You've used obsolete option `cleardoubleplain'.
+(scrbook)              Usage of this option indicates an old document and
+(scrbook)              is deprecated.
+(scrbook)              You should simply replace
+(scrbook)              usage of option `cleardoubleplain' by `cleardoublepage=p
+lain'.
 
-Class scrartcl Info: Switching compatibility level to `first'.
-Class scrartcl Info: You've used standard option `notitlepage'.
-(scrartcl)           This is correct!
-(scrartcl)           Internally I'm using `titlepage=false'.
-(scrartcl)           If you'd like to set the option with \KOMAoptions,
-(scrartcl)           you'd have to use `titlepage=false' there
-(scrartcl)           instead of `notitlepage', too.
-Class scrartcl Info: You've used standard option `oneside'.
-(scrartcl)           This is correct!
-(scrartcl)           Internally I'm using `twoside=false'.
-(scrartcl)           If you'd like to set the option with \KOMAoptions,
-(scrartcl)           you'd have to use `twoside=false' there
-(scrartcl)           instead of `oneside', too.
-Package scrbase Info: Unknown processing state.
-(scrbase)             Processing option `twoside=false'
-(scrbase)             of member `.scrartcl.cls'
-(scrbase)             of family `KOMA'
-(scrbase)             doesn't set a valid state.
-(scrbase)             This will be interpreted
-(scrbase)             as \FamilyKeyStateProcessed on input line 1150.
-
-Class scrartcl Warning: You've used obsolete option `tocleft'.
-(scrartcl)              Usage of this option indicates an old document and
-(scrartcl)              is deprecated.
-(scrartcl)              You should simply replace
-(scrartcl)              usage of option `tocleft' by `toc=flat'.
-
-Class scrartcl Info: Switching compatibility level to `first'.
-Class scrartcl Info: File `scrsize10pt.clo' used to setup font sizes on input l
-ine 1531.
+Class scrbook Info: Switching compatibility level to `first'.
+Class scrbook Info: File `scrsize10pt.clo' used to setup font sizes on input li
+ne 1655.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
 File: scrsize10pt.clo 2013/12/19 v3.12 KOMA-Script font size class option (10pt
 )
@@ -119,12 +94,6 @@ Package typearea Info: You've used standard option `a4paper'.
 (typearea)             If you'd like to set the option with \KOMAoptions,
 (typearea)             you'd have to use `paper=a4' there
 (typearea)             instead of `a4paper', too.
-Package typearea Info: You've used standard option `oneside'.
-(typearea)             This is correct!
-(typearea)             Internally I'm using `twoside=false'.
-(typearea)             If you'd like to set the option with \KOMAoptions,
-(typearea)             you'd have to use `twoside=false' there
-(typearea)             instead of `oneside', too.
 \ta@hblk=\skip42
 \ta@vblk=\skip43
 \ta@temp=\skip44
@@ -135,8 +104,8 @@ Package typearea Info: These are the values describing the layout:
 (typearea)             \paperwidth      = 597.50793pt
 (typearea)              \textwidth      = 373.44246pt
 (typearea)              DIV departure   = -4%
-(typearea)              \evensidemargin = 39.76274pt
-(typearea)              \oddsidemargin  = 39.76274pt
+(typearea)              \evensidemargin = 77.107pt
+(typearea)              \oddsidemargin  = 2.4185pt
 (typearea)             \paperheight     = 845.04694pt
 (typearea)              \textheight     = 538.0pt
 (typearea)              \topmargin      = 0.36087pt
@@ -148,16 +117,17 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              on input line 1330.
 )
 \c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
 \abovecaptionskip=\skip46
 \belowcaptionskip=\skip47
 \c@pti@nb@sid@b@x=\box26
-\c@figure=\count86
-\c@table=\count87
+\c@figure=\count87
+\c@table=\count88
 \bibindent=\dimen102
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2014/03/24 3.9k The Babel package
@@ -170,7 +140,7 @@ Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/03/24 3.9k Babel common definitions
-\babel@savecnt=\count88
+\babel@savecnt=\count89
 \U@D=\dimen103
 )
 \l@naustrian = a dialect from \language\l@ngerman 
@@ -424,7 +394,7 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count89
+\Gread@gobject=\count90
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
@@ -443,9 +413,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count90
-\Gm@cntv=\count91
-\c@Gm@tempcnt=\count92
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
 \Gm@bindingoffset=\dimen106
 \Gm@wd@mp=\dimen107
 \Gm@odd@mp=\dimen108
@@ -470,14 +440,14 @@ Package: nicefrac 1998/08/04 v0.9b Nice fractions
 ))
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2014/04/23 v1.8e multicolumn formatting (FMi)
-\c@tracingmulticols=\count93
+\c@tracingmulticols=\count94
 \mult@box=\box27
 \multicol@leftmargin=\dimen114
-\c@unbalance=\count94
-\c@collectmore=\count95
-\doublecol@number=\count96
-\multicoltolerance=\count97
-\multicolpretolerance=\count98
+\c@unbalance=\count95
+\c@collectmore=\count96
+\doublecol@number=\count97
+\multicoltolerance=\count98
+\multicolpretolerance=\count99
 \full@width=\dimen115
 \page@free=\dimen116
 \premulticols=\dimen117
@@ -508,46 +478,60 @@ Package: multicol 2014/04/23 v1.8e multicolumn formatting (FMi)
 \@tempa=\box48
 \@tempa=\box49
 \@tempa=\box50
-\c@columnbadness=\count99
-\c@finalcolumnbadness=\count100
+\c@columnbadness=\count100
+\c@finalcolumnbadness=\count101
 \last@try=\dimen120
 \multicolovershoot=\dimen121
 \multicolundershoot=\dimen122
 \mult@nat@firstbox=\box51
 \colbreak@box=\box52
-\mc@col@check@num=\count101
+\mc@col@check@num=\count102
 )
-\c@absatz=\count102
-\c@sentence=\count103
+(/usr/local/texlive/2014/texmf-dist/tex/latex/shorttoc/shorttoc.sty
+Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
+)
+\c@absatz=\count103
+\c@sentence=\count104
 
-(./Einzelordnungen.aux (./Grundordnung/grundordnung-col.aux))
-\openout1 = `Einzelordnungen.aux'.
+(./Satzungsheft.aux (./Grundordnung/grundordnung-col.aux)
+(./Grundordnung/grundordnung-db-col.aux)
+(./Geschaeftsordnung/geschaeftsordnung-col.aux)
+(./Geschaeftsordnung/geschaeftsordnung-db-col.aux)
+(./Finanzordnung/finanzordnung-col.aux)
+(./Foerderrichtlinie/foerderrichtlinie-col.aux)
+(./AE-Ordnung/ae-ordnung-col.aux) (./Beitragsordnung/beitragsordnung-col.aux)
+(./Haertefallordnung/haertefallordnung-col.aux)
+(./Mitgliedschaftsordnung/mitgliedschaftsordnung-col.aux)
+(./Rechnernutzungsrichtlinie/rechnernutzungsrichtlinie-col.aux)
+(./Hochschulgruppenrichtlinie/hochschulgruppenrichtlinie-col.aux)
+(./Materialverleihrichtlinie/materialverleihrichtlinie-col.aux))
+\openout1 = `Satzungsheft.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
+\scratchcounter=\count105
 \scratchdimen=\dimen123
 \scratchbox=\box53
-\nofMPsegments=\count105
-\nofMParguments=\count106
+\nofMPsegments=\count106
+\nofMParguments=\count107
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count107
+\MPscratchCnt=\count108
 \MPscratchDim=\dimen124
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
 \everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -601,7 +585,7 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * bindingoffset: 14.22636pt
-* modes: includehead includefoot 
+* modes: includehead includefoot twoside 
 * h-part:(L,W,R)=(42.67912pt, 497.92326pt, 42.67912pt)
 * v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
 * \paperwidth=597.50787pt
@@ -615,7 +599,7 @@ e
 * \headsep=18.0pt
 * \topskip=10.0pt
 * \footskip=42.0pt
-* \marginparwidth=74.68849pt
+* \marginparwidth=112.03273pt
 * \marginparsep=12.8401pt
 * \columnsep=28.45274pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -623,84 +607,101 @@ e
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
+* \@twosidetrue
+* \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 61.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 61.
-<bilder/Logo_Graustufen.jpg, id=1, 270.16936pt x 117.5592pt>
-File: bilder/Logo_Graustufen.jpg Graphic file (type jpg)
-
-<use bilder/Logo_Graustufen.jpg>
-Package pdftex.def Info: bilder/Logo_Graustufen.jpg used on input line 61.
-(pdftex.def)             Requested size: 137.31458pt x 59.75095pt.
-
-<bilder/TU_Logo_SW.pdf, id=2, 256.157pt x 74.31766pt>
-File: bilder/TU_Logo_SW.pdf Graphic file (type pdf)
-
-<use bilder/TU_Logo_SW.pdf>
-Package pdftex.def Info: bilder/TU_Logo_SW.pdf used on input line 61.
-(pdftex.def)             Requested size: 166.71895pt x 48.36958pt.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 61.
-
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 63.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 61.
+(Font)              <14.4> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 63.
 
-(./Einzelordnungen.toc [1
+<bilder/Logo_Graustufen.jpg, id=1, 270.16936pt x 117.5592pt>
+File: bilder/Logo_Graustufen.jpg Graphic file (type jpg)
 
+<use bilder/Logo_Graustufen.jpg>
+Package pdftex.def Info: bilder/Logo_Graustufen.jpg used on input line 63.
+(pdftex.def)             Requested size: 326.976pt x 142.26378pt.
+ [1
 
 
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./bilde
-r/Logo_Graustufen.jpg> <./bilder/TU_Logo_SW.pdf>])
+r/Logo_Graustufen.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 63.
+ [2
+
+]
+(./Satzungsheft.toc) [3
+
+
+] [4
+
+
+] (./Satzungsheft.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+ [5] [6])
 \tf@toc=\write3
-\openout3 = `Einzelordnungen.toc'.
+\openout3 = `Satzungsheft.toc'.
+
+ [7] [8
 
 
-[2]
+] [9]
 \openout2 = `Grundordnung/grundordnung-col.aux'.
 
- (./Grundordnung/grundordnung-col.tex
-Underfull \hbox (badness 6910) in paragraph at lines 53--54
+
+(./Grundordnung/grundordnung-col.tex
+Underfull \hbox (badness 6910) in paragraph at lines 47--48
 \T1/cmr/m/n/10 staats-bür-ger-li-chen Ver-ant-wor-tungs-be-wusst-sein
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 \T1/cmr/m/n/10 (1)$[]$Der Stu-Ra kann in An-ge-le-gen-hei-ten nach
  []
 
-[3
+[10
 
-] [4] [5] [6] [7]
-Underfull \hbox (badness 7081) in paragraph at lines 412--413
+] [11] [12] [13] [14]
+Underfull \hbox (badness 7081) in paragraph at lines 406--407
 []\T1/cmr/m/n/10 die Ver-wal-tung der Mai-ling-lis-ten, E-Mail-
  []
 
-[8] [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 635--637
+[15] [16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 629--631
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 640--643
+Underfull \hbox (badness 10000) in paragraph at lines 634--637
 
  []
 
-[11]
+[18]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 694.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 694.
+(Font)              <8> on input line 688.
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--718
+Underfull \hbox (badness 10000) in paragraph at lines 691--712
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--715
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--718
 
  []
 
@@ -719,37 +720,435 @@ Underfull \hbox (badness 10000) in paragraph at lines 725--727
 
  []
 
+) [19] [20
 
-Underfull \hbox (badness 10000) in paragraph at lines 728--730
+
+
+] [21]
+\openout2 = `Grundordnung/grundordnung-db-col.aux'.
+
+ (./Grundordnung/grundordnung-db-col.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 731--733
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
 
  []
 
-) [12] (./Einzelordnungen.aux (./Grundordnung/grundordnung-col.aux)) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+) [22
+
+] [23
+
+
+
+]
+\openout2 = `Geschaeftsordnung/geschaeftsordnung-col.aux'.
+
+ (./Geschaeftsordnung/geschaeftsordnung-col.tex
+Overfull \hbox (0.11029pt too wide) in paragraph at lines 15--16
+\T1/cmr/m/n/10 (1)$[]$Der Stu-ra tagt don-ners-tags von 19.30 Uhr bis 23.00
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+ [24
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+[]\T1/cmr/m/n/10 (6)$[]$Bei ei-nem Ge-schäfts-ord-nungs-an-trag nach
+ []
+
+[25]
+Underfull \hbox (badness 5893) in paragraph at lines 203--204
+\T1/cmr/m/n/10 Recht auf An-trä-ge zur Ge-schäfts-ord-nung nach
+ []
+
+[26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 337--339
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 366--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--417
+
+ []
+
+) [29] [30
+
+
+
+] [31]
+\openout2 = `Geschaeftsordnung/geschaeftsordnung-db-col.aux'.
+
+ (./Geschaeftsordnung/geschaeftsordnung-db-col.tex
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+) [32
+
+]
+\openout2 = `Finanzordnung/finanzordnung-col.aux'.
+
+ (./Finanzordnung/finanzordnung-col.tex [33
+
+
+] [34] [35] [36] [37] [38]
+[39]
+Underfull \hbox (badness 7415) in paragraph at lines 469--470
+\T1/cmr/m/n/10 nungs-er-geb-nis-ses ist ei-ne Jah-res-ab-schluss-prü-fung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--483
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 514--517
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--524
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
+
+ []
+
+) [41]
+\openout2 = `Foerderrichtlinie/foerderrichtlinie-col.aux'.
+
+ (./Foerderrichtlinie/foerderrichtlinie-col.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+[42
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+) [43]
+\openout2 = `AE-Ordnung/ae-ordnung-col.aux'.
+
+ (./AE-Ordnung/ae-ordnung-col.tex
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+) [44
+
+
+]
+\openout2 = `Beitragsordnung/beitragsordnung-col.aux'.
+
+ (./Beitragsordnung/beitragsordnung-col.tex [45
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+) [46]
+\openout2 = `Haertefallordnung/haertefallordnung-col.aux'.
+
+ (./Haertefallordnung/haertefallordnung-col.tex [47
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+) [48]
+\openout2 = `Mitgliedschaftsordnung/mitgliedschaftsordnung-col.aux'.
+
+ (./Mitgliedschaftsordnung/mitgliedschaftsordnung-col.tex
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+) [49
+
+
+]
+\openout2 = `Rechnernutzungsrichtlinie/rechnernutzungsrichtlinie-col.aux'.
+
+ (./Rechnernutzungsrichtlinie/rechnernutzungsrichtlinie-col.tex
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\T1/cmr/m/n/10 vom Stu-Ra be-auf-trag-te Per-so-nen, so-fern
+ []
+
+[50
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+[]\T1/cmr/m/n/10 Durch die Be-nut-zung ent-ste-hen-de dienst-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+) [51]
+\openout2 = `Hochschulgruppenrichtlinie/hochschulgruppenrichtlinie-col.aux'.
+
+ (./Hochschulgruppenrichtlinie/hochschulgruppenrichtlinie-col.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+) [53]
+\openout2 = `Materialverleihrichtlinie/materialverleihrichtlinie-col.aux'.
+
+ (./Materialverleihrichtlinie/materialverleihrichtlinie-col.tex
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+) [54
+
+
+] (./Satzungsheft.aux (./Grundordnung/grundordnung-col.aux)
+(./Grundordnung/grundordnung-db-col.aux)
+(./Geschaeftsordnung/geschaeftsordnung-col.aux)
+(./Geschaeftsordnung/geschaeftsordnung-db-col.aux)
+(./Finanzordnung/finanzordnung-col.aux)
+(./Foerderrichtlinie/foerderrichtlinie-col.aux)
+(./AE-Ordnung/ae-ordnung-col.aux) (./Beitragsordnung/beitragsordnung-col.aux)
+(./Haertefallordnung/haertefallordnung-col.aux)
+(./Mitgliedschaftsordnung/mitgliedschaftsordnung-col.aux)
+(./Rechnernutzungsrichtlinie/rechnernutzungsrichtlinie-col.aux)
+(./Hochschulgruppenrichtlinie/hochschulgruppenrichtlinie-col.aux)
+(./Materialverleihrichtlinie/materialverleihrichtlinie-col.aux)) ) 
 Here is how much of TeX's memory you used:
- 4409 strings out of 493117
- 65538 string characters out of 6135434
- 188215 words of memory out of 5000000
- 7776 multiletter control sequences out of 15000+600000
- 12499 words of font info for 31 fonts, out of 8000000 for 9000
+ 4690 strings out of 493117
+ 74060 string characters out of 6135434
+ 207397 words of memory out of 5000000
+ 7947 multiletter control sequences out of 15000+600000
+ 19607 words of font info for 42 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 47i,12n,57p,651b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/loc
-al/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb>
-Output written on Einzelordnungen.pdf (12 pages, 225276 bytes).
+ 47i,8n,57p,1048b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/t
+exlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/cm-super/sfsx0900.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/cm-super/sfsx2074.pfb>
+Output written on Satzungsheft.pdf (54 pages, 443465 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 229 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

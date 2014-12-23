@@ -1,0 +1,91 @@
+\documentclass[10pt,a4paper,smallheadings,halfparskip,cleardoubleplain,pagesize]{scrbook} %für zweispaltige Ausgabe (...-col)
+%\documentclass[14pt,a4paper,smallheadings,halfparskip,cleardoubleplain,pagesize]{scrbook} %für spaltenlose Ausgabe
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[bindingoffset=0.5cm,inner=1.5cm,outer=1.5cm,top=1cm,bottom=1cm,includeheadfoot]{geometry}
+\usepackage{units}   %nötig für die netten Brüche
+\usepackage{multicol}  %nötig für schönen zweispaltigen Satz
+\usepackage{shorttoc}
+
+
+\addtokomafont{section}{\centering}  %  ist format für Paragrafen
+\addtokomafont{subsection}{\centering}  %  ist format für Absätze
+\renewcommand*{\raggedsection}{\centering} % sorgt für mittige Kapitelüberschriften
+
+\newcounter{absatz}[section] %zähler für absätze
+\newcounter{sentence}[absatz] %zähler für sätze
+
+\renewcommand*{\thesection}{\S\,\arabic{section}} %ausgabeformat für paragraphen
+\renewcommand*{\theabsatz}{(\arabic{absatz})}   % ausgabeformat für absatzzähler
+
+
+\setcounter{secnumdepth}{5} % damit bis zur Ebene paragraph die Zähler ausgegeben werden
+\setcounter{tocdepth}{1} %damit nur die kapitelüberschriften im inhaltsverzeichnis sind
+
+%Absatzzähler
+\newcommand*{\Abs}{\stepcounter{absatz}\theabsatz}
+
+%Satzzähler
+\renewcommand{\.}{. \Satz} 
+\newcommand{\Satz}[1][\thesentence]{\stepcounter{sentence}\setcounter{sentence}{#1}\textsuperscript{\thesentence}}
+%überschreibt die "\." Funktion so, dass die Satznummer vor den nächsten Satz geschrieben wird, reset bei neuem Absatz
+%\newcommand{\s}{\Satz}  %Michas altes Kommando für Satzzähler; ich war zu faul, alles zu ersetzen; betrifft: S, GO, AEO
+
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{1cm}
+\setlength{\columnseprule}{0.5pt}
+
+\pagestyle{myheadings} \markboth{Studentenrat der TU Dresden}{}
+
+\hyphenation{Ta-ges-ord-nungs-punkte}
+
+
+
+\begin{document}
+    \title{Ordnungen\\ der Studentenschaft\\ der Technischen
+        Universität Dresden}
+    \author{~~ \\ ~~~~ \\ ~~~~~~ \\ ~~~~~~~~~~~}
+%    \vspace{5cm}
+    \date{\includegraphics[height=5cm,keepaspectratio=true]{bilder/Logo_Graustufen.jpg}}
+ %   \date{\includegraphics[height=8cm,keepaspectratio=true]{StuRa-Logo-maskiert.jpg}}
+    \lowertitleback{\begin{tabbing}
+		Redaktion und Layout:   \= Studentenrat der TU Dresden \kill
+        Herausgeber:            \> Geschäftsbereich Inneres\\
+                                \> Studentenrat der TU Dresden\\
+        Redaktion:							\> Martin Jahnke, Enrico Lovász, Patrick Oberthür \\
+        Layout:   							\> Annerose Gulbins \\
+        Satz:                   \> \LaTeX \\
+        erstellt:               \> \today
+    \end{tabbing}}
+    \maketitle
+    \shorttoc{Übersicht}{0}
+    \newpage
+    \small
+    \tableofcontents
+    \normalsize
+  
+    \addchap[Grundordnung]{Grundordnung (GrO)\\der Studentenschaft der TU Dresden}
+    \include{Grundordnung/grundordnung-col}
+    
+    \addchap[Durchführungsbestimmungen zur Grundordnung]{Durchführungsbestimmungen\\zur Grundordnung\\der Studentenschaft der TU Dresden}
+    \include{Grundordnung/grundordnung-db-col}
+    
+    \addchap[Geschäftsordnung]{Geschäftsordnung\\der Studentenschaft der TU Dresden}
+    \include{Geschaeftsordnung/geschaeftsordnung-col}
+    
+    
+    \addchap[Durchführungsbestimmungen zur Geschäftsordnung]{Durchführungsbestimmungen\\zur Geschäftsordnung\\der Studentenschaft der TU Dresden}
+    \include{Geschaeftsordnung/geschaeftsordnung-db-col}
+    \include{Finanzordnung/finanzordnung-col}
+    \include{Foerderrichtlinie/foerderrichtlinie-col}
+    \include{AE-Ordnung/ae-ordnung-col}
+    \include{Beitragsordnung/beitragsordnung-col}
+    \include{Haertefallordnung/haertefallordnung-col}
+    \include{Mitgliedschaftsordnung/mitgliedschaftsordnung-col}
+    \include{Rechnernutzungsrichtlinie/rechnernutzungsrichtlinie-col}
+    \include{Hochschulgruppenrichtlinie/hochschulgruppenrichtlinie-col}
+    \include{Materialverleihrichtlinie/materialverleihrichtlinie-col}
+  
+\end{document}

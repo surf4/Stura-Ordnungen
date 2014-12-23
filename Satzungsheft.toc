@@ -1,0 +1,158 @@
+\select@language {ngerman}
+\contentsline {chapter}{\nonumberline Grundordnung}{9}
+\contentsline {section}{\numberline {\S \,1}Begriffsbestimmung und Rechtsstellung}{10}
+\contentsline {section}{\numberline {\S \,2}Aufgaben der Studentenschaft}{10}
+\contentsline {section}{\numberline {\S \,3}Rechte und Pflichten der Mitglieder}{10}
+\contentsline {section}{\numberline {\S \,4}Studentenbefragung}{10}
+\contentsline {section}{\numberline {\S \,4}a Anfragen}{11}
+\contentsline {section}{\numberline {\S \,5}Die Organe}{11}
+\contentsline {section}{\numberline {\S \,5}a Beschlussf\IeC {\"a}higkeit}{11}
+\contentsline {section}{\numberline {\S \,6}Gliederung}{11}
+\contentsline {section}{\numberline {\S \,7}Grunds\IeC {\"a}tzliches}{12}
+\contentsline {section}{\numberline {\S \,8}Zusammensetzung des Fachschaftsrat}{12}
+\contentsline {section}{\numberline {\S \,9}Aufgaben und Funktionen des FSR}{12}
+\contentsline {section}{\numberline {\S \,10}Fachschaftsordnung}{12}
+\contentsline {section}{\numberline {\S \,11}Finanzen}{12}
+\contentsline {section}{\numberline {\S \,12}Legislatur und Amtsperioden}{12}
+\contentsline {section}{\numberline {\S \,13}Rechtsgesch\IeC {\"a}ftliche Erkl\IeC {\"a}rungen}{13}
+\contentsline {section}{\numberline {\S \,14}Angestellte}{13}
+\contentsline {section}{\numberline {\S \,15}Zusammensetzung des StuRa}{13}
+\contentsline {section}{\numberline {\S \,15}a Beratende Mitglieder}{13}
+\contentsline {section}{\numberline {\S \,16}Aufgaben und Funktionen des StuRa}{13}
+\contentsline {section}{\numberline {\S \,17}\IeC {\"O}ffentlichkeit}{14}
+\contentsline {section}{\numberline {\S \,18}Stimmrechte}{14}
+\contentsline {section}{\numberline {\S \,19}Mehrheiten}{14}
+\contentsline {section}{\numberline {\S \,20}Beschlussf\IeC {\"a}higkeit und Beschlussfassung}{14}
+\contentsline {section}{\numberline {\S \,21}Ordentliche Sitzungen}{14}
+\contentsline {section}{\numberline {\S \,22}Au\IeC {\ss }erordentliche Sitzungen}{15}
+\contentsline {section}{\numberline {\S \,23}Der Sitzungsvorstand}{15}
+\contentsline {section}{\numberline {\S \,23}a Referentin Struktur}{15}
+\contentsline {section}{\numberline {\S \,24}Aussch\IeC {\"u}sse}{15}
+\contentsline {section}{\numberline {\S \,24}a F\IeC {\"o}rderausschuss}{15}
+\contentsline {section}{\numberline {\S \,24}b Bewilligungsausschuss}{16}
+\contentsline {section}{\numberline {\S \,25}Referate}{16}
+\contentsline {section}{\numberline {\S \,26}Gesch\IeC {\"a}ftsbereiche}{16}
+\contentsline {section}{\numberline {\S \,27}Gesch\IeC {\"a}ftsf\IeC {\"u}hrung}{16}
+\contentsline {section}{\numberline {\S \,27}a Dienstvorgesetze}{16}
+\contentsline {section}{\numberline {\S \,28}Arbeitsgemeinschaften}{17}
+\contentsline {section}{\numberline {\S \,28}b Projekte des Studentenrates}{17}
+\contentsline {section}{\numberline {\S \,29}Erg\IeC {\"a}nzungsordnungen und Richtlinien}{17}
+\contentsline {section}{\numberline {\S \,30}Grundordnungs\IeC {\"a}nderung}{17}
+\contentsline {section}{\numberline {\S \,31}Teilnichtigkeit}{18}
+\contentsline {section}{\numberline {\S \,32}Ver\IeC {\"o}ffentlichung}{18}
+\contentsline {section}{\numberline {\S \,33}\IeC {\"U}bergangsbestimmungen}{18}
+\contentsline {section}{\numberline {\S \,34}Inkrafttreten}{18}
+\contentsline {chapter}{\nonumberline Durchf\IeC {\"u}hrungsbestimmungen zur Grundordnung}{21}
+\contentsline {section}{\numberline {\S \,1}Durchf\IeC {\"u}hrungsbestimmung zu Entsendungen}{22}
+\contentsline {section}{\numberline {\S \,2}Durchf\IeC {\"u}hrungsbestimmung zu Entschuldigungen f\IeC {\"u}r StuRa-Sitzungen}{22}
+\contentsline {chapter}{\nonumberline Gesch\IeC {\"a}ftsordnung}{23}
+\contentsline {section}{\numberline {\S \,1}Konstituierung}{24}
+\contentsline {section}{\numberline {\S \,2}Zusammentreten}{24}
+\contentsline {section}{\numberline {\S \,3}\IeC {\"O}ffentlichkeit}{24}
+\contentsline {section}{\numberline {\S \,4}Beschlussf\IeC {\"a}higkeit}{24}
+\contentsline {section}{\numberline {\S \,5}Sitzungsvorlagen und Fristen}{24}
+\contentsline {section}{\numberline {\S \,6}Tagesordnung}{24}
+\contentsline {section}{\numberline {\S \,7}Versammlungsleiterin}{25}
+\contentsline {section}{\numberline {\S \,8}Redeliste}{25}
+\contentsline {section}{\numberline {\S \,9}Antr\IeC {\"a}ge zur Gesch\IeC {\"a}ftsordnung}{25}
+\contentsline {section}{\numberline {\S \,10}Antr\IeC {\"a}ge}{26}
+\contentsline {section}{\numberline {\S \,11}Lesungen}{26}
+\contentsline {section}{\numberline {\S \,12}Beschlussfassung}{26}
+\contentsline {section}{\numberline {\S \,13}Schriftliche Abstimmungen}{27}
+\contentsline {section}{\numberline {\S \,14}Geheime Abstimmungen}{27}
+\contentsline {section}{\numberline {\S \,15}Schriftliche, geheime Abstimmungen}{27}
+\contentsline {section}{\numberline {\S \,16}Ausschreibungen}{27}
+\contentsline {section}{\numberline {\S \,17}Wahlen}{27}
+\contentsline {section}{\numberline {\S \,18}Protokollf\IeC {\"u}hrung}{28}
+\contentsline {section}{\numberline {\S \,19}Rechenschaftsberichte}{28}
+\contentsline {section}{\numberline {\S \,20}Gesch\IeC {\"a}ftsf\IeC {\"u}hrung}{28}
+\contentsline {chapter}{\nonumberline Durchf\IeC {\"u}hrungsbestimmungen zur Gesch\IeC {\"a}ftsordnung}{31}
+\contentsline {section}{\numberline {\S \,1}Durchf\IeC {\"u}hrungsbestimmung zum Tagesordnungspunkt "`Debatte des Berichts der Gesch\IeC {\"a}ftsf\IeC {\"u}hrung"' gem\IeC {\"a}\IeC {\ss } \IeC {\textsection }~6~(2) der Gesch\IeC {\"a}ftsordnung}{32}
+\contentsline {section}{\numberline {\S \,1}\IeC {\"U}bergeordnete Bestimmungen}{33}
+\contentsline {section}{\numberline {\S \,2}Wahl}{33}
+\contentsline {section}{\numberline {\S \,3}Aufgaben}{33}
+\contentsline {section}{\numberline {\S \,4}Bevollm\IeC {\"a}chtigung von Vertreterinnen}{33}
+\contentsline {section}{\numberline {\S \,5}Grundlagen}{33}
+\contentsline {section}{\numberline {\S \,6}Wirtschaftsjahr}{34}
+\contentsline {section}{\numberline {\S \,7}Veranschlagung der Ertr\IeC {\"a}ge, Aufwendungen und Konten}{34}
+\contentsline {section}{\numberline {\S \,8}Verwendung der Einnahmemittel}{34}
+\contentsline {section}{\numberline {\S \,9}Deckungsf\IeC {\"a}hige Konten}{34}
+\contentsline {section}{\numberline {\S \,10}Nachtragswirtschaftsplan}{34}
+\contentsline {section}{\numberline {\S \,11}Ver\IeC {\"o}ffentlichung}{34}
+\contentsline {section}{\numberline {\S \,12}Inkrafttreten}{34}
+\contentsline {section}{\numberline {\S \,13}Bedeutung des Wirtschaftsplanes gegen\IeC {\"u}ber Dritten}{35}
+\contentsline {section}{\numberline {\S \,14}Vorl\IeC {\"a}ufige Wirtschaftsf\IeC {\"u}hrung}{35}
+\contentsline {section}{\numberline {\S \,15}R\IeC {\"u}cklagen}{35}
+\contentsline {section}{\numberline {\S \,16}Verwaltung der Mittel durch Fachschaften}{35}
+\contentsline {section}{\numberline {\S \,17}Au\IeC {\ss }erplanm\IeC {\"a}\IeC {\ss }ige Ausgaben}{35}
+\contentsline {section}{\numberline {\S \,18}Einhaltung des Wirtschaftsplanes}{35}
+\contentsline {section}{\numberline {\S \,19}Vorausleistungen}{35}
+\contentsline {section}{\numberline {\S \,20}Verantwortlichkeit}{35}
+\contentsline {section}{\numberline {\S \,21}Kassenverwalterin}{36}
+\contentsline {section}{\numberline {\S \,22}Zahlungsverkehr}{36}
+\contentsline {section}{\numberline {\S \,23}Kassenf\IeC {\"u}hrung}{36}
+\contentsline {section}{\numberline {\S \,24}Kassenanordnungen}{36}
+\contentsline {section}{\numberline {\S \,25}Buchf\IeC {\"u}hrung}{36}
+\contentsline {section}{\numberline {\S \,26}Abschreibung}{36}
+\contentsline {section}{\numberline {\S \,27}Inventarverzeichnis}{37}
+\contentsline {section}{\numberline {\S \,28}Rechnungslegung}{37}
+\contentsline {section}{\numberline {\S \,29}Sicherung der wirtschaftlichen Verwahrung}{37}
+\contentsline {section}{\numberline {\S \,30}Begleichung von Rechnungen}{37}
+\contentsline {section}{\numberline {\S \,31}Anschaffung und Ver\IeC {\"a}u\IeC {\ss }erung von Eigentum}{37}
+\contentsline {section}{\numberline {\S \,32}Anmeldepflicht von Ausgaben}{38}
+\contentsline {section}{\numberline {\S \,33}Studentische Projekte}{38}
+\contentsline {section}{\numberline {\S \,34}B\IeC {\"u}rgschaften und Darlehen}{38}
+\contentsline {section}{\numberline {\S \,35}L\IeC {\"a}ngerfristige Verpflichtungen}{38}
+\contentsline {section}{\numberline {\S \,36}Beitragspflichtige Mitgliedschaft}{38}
+\contentsline {section}{\numberline {\S \,37}Ausgaben von erheblicher H\IeC {\"o}he}{38}
+\contentsline {section}{\numberline {\S \,38}Reisekosten}{38}
+\contentsline {section}{\numberline {\S \,39}Bewirtungen}{39}
+\contentsline {section}{\numberline {\S \,40}Allgemeines zu Aufwandsentsch\IeC {\"a}digungen}{39}
+\contentsline {section}{\numberline {\S \,41}Zahlung der Aufwandsentsch\IeC {\"a}digungen}{39}
+\contentsline {section}{\numberline {\S \,42}Verfahren der Pr\IeC {\"u}fung}{40}
+\contentsline {section}{\numberline {\S \,43}Bekanntgabe des Pr\IeC {\"u}fungsergebnisses}{40}
+\contentsline {section}{\numberline {\S \,44}Jahresabschlusspr\IeC {\"u}fung}{40}
+\contentsline {section}{\numberline {\S \,45}Rechnungspr\IeC {\"u}fung durch staatliche Stellen}{40}
+\contentsline {section}{\numberline {\S \,1}F\IeC {\"o}rderausschuss}{42}
+\contentsline {section}{\numberline {\S \,2}Haushaltsvorbehalt und Rechtsanspruch}{42}
+\contentsline {section}{\numberline {\S \,3}Grunds\IeC {\"a}tzliches}{42}
+\contentsline {section}{\numberline {\S \,4}\IeC {\"O}ffentlichkeit}{42}
+\contentsline {section}{\numberline {\S \,5}Sport}{42}
+\contentsline {section}{\numberline {\S \,6}Lehrveranstaltungen und Exkursionen}{42}
+\contentsline {section}{\numberline {\S \,7}Partys}{42}
+\contentsline {section}{\numberline {\S \,8}F\IeC {\"o}rderung der Fachschaften}{43}
+\contentsline {section}{\numberline {\S \,1}Allgemeines}{44}
+\contentsline {section}{\numberline {\S \,2}AE-Berechtigte}{44}
+\contentsline {section}{\numberline {\S \,3}AE-Beantragung}{44}
+\contentsline {section}{\numberline {\S \,4}Festlegung der AE H\IeC {\"o}he}{44}
+\contentsline {section}{\numberline {\S \,5}Beschlussfassung \IeC {\"u}ber AE Antr\IeC {\"a}ge}{44}
+\contentsline {section}{\numberline {\S \,6}Sonstige und Schlussbestimmungen}{44}
+\contentsline {section}{\numberline {\S \,1}Beitragszweck}{45}
+\contentsline {section}{\numberline {\S \,2}Beitragsh\IeC {\"o}he}{45}
+\contentsline {section}{\numberline {\S \,3}Beitragspflicht}{45}
+\contentsline {section}{\numberline {\S \,4}R\IeC {\"u}ckerstattung und Nachkauf}{45}
+\contentsline {section}{\numberline {\S \,5}Beitragserhebung und F\IeC {\"a}lligkeit}{45}
+\contentsline {section}{\numberline {\S \,6}Mittelverwaltung}{46}
+\contentsline {section}{\numberline {\S \,1}Allgemeines}{47}
+\contentsline {section}{\numberline {\S \,2}Antragsberechtigte}{47}
+\contentsline {section}{\numberline {\S \,3}Einkommensbegriff}{47}
+\contentsline {section}{\numberline {\S \,4}Form und Fristen}{47}
+\contentsline {section}{\numberline {\S \,5}Verfahren}{47}
+\contentsline {section}{\numberline {\S \,6}Haushaltsvorbehalt und Rechtsanspruch}{48}
+\contentsline {section}{\numberline {\S \,7}Inkrafttreten und \IeC {\"U}bergangsbestimmungen}{48}
+\contentsline {section}{\numberline {\S \,1}Mitgliedschaft}{49}
+\contentsline {section}{\numberline {\S \,2}Austritt aus der Studentenschaft}{49}
+\contentsline {section}{\numberline {\S \,3}Eintritt in die Studentenschaft}{49}
+\contentsline {section}{\numberline {\S \,1}Geltungsbereich}{50}
+\contentsline {section}{\numberline {\S \,2}Begriffsbestimmung}{50}
+\contentsline {section}{\numberline {\S \,3}Nutzung, Zugang und Dauer}{50}
+\contentsline {section}{\numberline {\S \,4}Entzug des Zuganges}{50}
+\contentsline {section}{\numberline {\S \,5}Verarbeitung personenbezogener Daten}{50}
+\contentsline {section}{\numberline {\S \,6}Rechte und Pflichten des Nutzers}{51}
+\contentsline {section}{\numberline {\S \,7}Haftung}{51}
+\contentsline {section}{\numberline {\S \,1}Status Hochschulgruppe}{52}
+\contentsline {section}{\numberline {\S \,2}Rechte von Hochschulgruppen}{52}
+\contentsline {section}{\numberline {\S \,3}Schlussbestimmungen}{52}
+\contentsline {section}{\numberline {\S \,1}Ausleihberechtigte}{54}
+\contentsline {section}{\numberline {\S \,2}Ausleihbedingungen}{54}
+\contentsline {section}{\numberline {\S \,3}Schlussbestimmungen}{54}
