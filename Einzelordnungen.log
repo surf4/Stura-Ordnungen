@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.3)  21 DEC 2014 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.3)  6 JAN 2015 21:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -520,7 +520,7 @@ Package: multicol 2014/04/23 v1.8e multicolumn formatting (FMi)
 \c@absatz=\count102
 \c@sentence=\count103
 
-(./Einzelordnungen.aux (./Grundordnung/grundordnung-col.aux))
+(./Einzelordnungen.aux (./Wahlordnung/wahlordnung-col.aux))
 \openout1 = `Einzelordnungen.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -665,91 +665,55 @@ r/Logo_Graustufen.jpg> <./bilder/TU_Logo_SW.pdf>])
 
 
 [2]
-\openout2 = `Grundordnung/grundordnung-col.aux'.
+\openout2 = `Wahlordnung/wahlordnung-col.aux'.
 
- (./Grundordnung/grundordnung-col.tex
-Underfull \hbox (badness 6910) in paragraph at lines 53--54
-\T1/cmr/m/n/10 staats-bür-ger-li-chen Ver-ant-wor-tungs-be-wusst-sein
+ (./Wahlordnung/wahlordnung-col.tex [3
+
+] [4]
+Underfull \hbox (badness 7221) in paragraph at lines 115--116
+[]\T1/cmr/m/n/10 (5)$[]$Vorgeschlagene Be-wer-be-rin-nen kön-nen durch
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-\T1/cmr/m/n/10 (1)$[]$Der Stu-Ra kann in An-ge-le-gen-hei-ten nach
- []
-
-[3
-
-] [4] [5] [6] [7]
-Underfull \hbox (badness 7081) in paragraph at lines 412--413
-[]\T1/cmr/m/n/10 die Ver-wal-tung der Mai-ling-lis-ten, E-Mail-
- []
-
-[8] [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 635--637
+[5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 640--643
+Underfull \hbox (badness 10000) in paragraph at lines 290--293
 
  []
 
-[11]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 694.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 694.
-
-Underfull \hbox (badness 10000) in paragraph at lines 697--718
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 294--297
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--721
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 722--724
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--727
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 728--730
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 731--733
-
- []
-
-) [12] (./Einzelordnungen.aux (./Grundordnung/grundordnung-col.aux)) ) 
+) [10] (./Einzelordnungen.aux (./Wahlordnung/wahlordnung-col.aux)) ) 
 Here is how much of TeX's memory you used:
- 4409 strings out of 493117
- 65538 string characters out of 6135434
- 188215 words of memory out of 5000000
- 7776 multiletter control sequences out of 15000+600000
- 12499 words of font info for 31 fonts, out of 8000000 for 9000
+ 4387 strings out of 493117
+ 65279 string characters out of 6135434
+ 198215 words of memory out of 5000000
+ 7761 multiletter control sequences out of 15000+600000
+ 9910 words of font info for 24 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 47i,12n,57p,651b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/loc
-al/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/t
+ 47i,12n,57p,1090b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local
+/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texli
 ve/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive
 /2014/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2
 014/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb>
-Output written on Einzelordnungen.pdf (12 pages, 225276 bytes).
+Output written on Einzelordnungen.pdf (10 pages, 195820 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 62 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

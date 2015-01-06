@@ -1,43 +1,24 @@
 \select@language {ngerman}
-\contentsline {section}{\numberline {\S \ensuremath {\,}1}Begriffsbestimmung und Rechtsstellung}{3}
-\contentsline {section}{\numberline {\S \ensuremath {\,}2}Aufgaben der Studentenschaft}{3}
-\contentsline {section}{\numberline {\S \ensuremath {\,}3}Rechte und Pflichten der Mitglieder}{3}
-\contentsline {section}{\numberline {\S \ensuremath {\,}4}Studentenbefragung}{3}
-\contentsline {section}{\numberline {\S \ensuremath {\,}4}a Anfragen}{4}
-\contentsline {section}{\numberline {\S \ensuremath {\,}5}Die Organe}{4}
-\contentsline {section}{\numberline {\S \ensuremath {\,}5}a Beschlussf\IeC {\"a}higkeit}{4}
-\contentsline {section}{\numberline {\S \ensuremath {\,}6}Gliederung}{4}
-\contentsline {section}{\numberline {\S \ensuremath {\,}7}Grunds\IeC {\"a}tzliches}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}8}Zusammensetzung des Fachschaftsrat}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}9}Aufgaben und Funktionen des FSR}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}10}Fachschaftsordnung}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}11}Finanzen}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}12}Legislatur und Amtsperioden}{5}
-\contentsline {section}{\numberline {\S \ensuremath {\,}13}Rechtsgesch\IeC {\"a}ftliche Erkl\IeC {\"a}rungen}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}14}Angestellte}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}15}Zusammensetzung des StuRa}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}15}a Beratende Mitglieder}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}16}Aufgaben und Funktionen des StuRa}{6}
-\contentsline {section}{\numberline {\S \ensuremath {\,}17}\IeC {\"O}ffentlichkeit}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}18}Stimmrechte}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}19}Mehrheiten}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}20}Beschlussf\IeC {\"a}higkeit und Beschlussfassung}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}21}Ordentliche Sitzungen}{7}
-\contentsline {section}{\numberline {\S \ensuremath {\,}22}Au\IeC {\ss }erordentliche Sitzungen}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}23}Der Sitzungsvorstand}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}23}a Referentin Struktur}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}24}Aussch\IeC {\"u}sse}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}24}a F\IeC {\"o}rderausschuss}{8}
-\contentsline {section}{\numberline {\S \ensuremath {\,}24}b Bewilligungsausschuss}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}25}Referate}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}26}Gesch\IeC {\"a}ftsbereiche}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}27}Gesch\IeC {\"a}ftsf\IeC {\"u}hrung}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}27}a Dienstvorgesetze}{9}
-\contentsline {section}{\numberline {\S \ensuremath {\,}28}Arbeitsgemeinschaften}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}28}b Projekte des Studentenrates}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}29}Erg\IeC {\"a}nzungsordnungen und Richtlinien}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}30}Grundordnungs\IeC {\"a}nderung}{10}
-\contentsline {section}{\numberline {\S \ensuremath {\,}31}Teilnichtigkeit}{11}
-\contentsline {section}{\numberline {\S \ensuremath {\,}32}Ver\IeC {\"o}ffentlichung}{11}
-\contentsline {section}{\numberline {\S \ensuremath {\,}33}\IeC {\"U}bergangsbestimmungen}{11}
-\contentsline {section}{\numberline {\S \ensuremath {\,}34}Inkrafttreten}{11}
+\contentsline {section}{\numberline {\S \ensuremath {\,}1}Geltungsbereich und Mandatsdauer}{3}
+\contentsline {section}{\numberline {\S \ensuremath {\,}2}Wahlgrunds\IeC {\"a}tze}{3}
+\contentsline {section}{\numberline {\S \ensuremath {\,}3}Wahlorgane, Zusammensetzung und Aufgaben}{3}
+\contentsline {section}{\numberline {\S \ensuremath {\,}4}Wahlberechtigung und W\IeC {\"a}hlbarkeit}{3}
+\contentsline {section}{\numberline {\S \ensuremath {\,}5}Aus\IeC {\"u}bung des Wahlrechts, W\IeC {\"a}hlerverzeichnis}{4}
+\contentsline {section}{\numberline {\S \ensuremath {\,}6}Wahlausschreibung}{4}
+\contentsline {section}{\numberline {\S \ensuremath {\,}7}Wahltermine, Zeit und Ort der Stimmabgabe}{5}
+\contentsline {section}{\numberline {\S \ensuremath {\,}8}Wahlvorschl\IeC {\"a}ge}{5}
+\contentsline {section}{\numberline {\S \ensuremath {\,}9}Pr\IeC {\"u}fung der Wahlvorschl\IeC {\"a}ge}{5}
+\contentsline {section}{\numberline {\S \ensuremath {\,}10}Vorbereitung der Wahl und Gestaltung der Wahlunterlagen}{5}
+\contentsline {section}{\numberline {\S \ensuremath {\,}11}Stimmabgabe}{5}
+\contentsline {section}{\numberline {\S \ensuremath {\,}12}Briefwahl}{6}
+\contentsline {section}{\numberline {\S \ensuremath {\,}13}Ausz\IeC {\"a}hlung}{7}
+\contentsline {section}{\numberline {\S \ensuremath {\,}14}Feststellung des Wahlergebnisses}{7}
+\contentsline {section}{\numberline {\S \ensuremath {\,}15}Wahlniederschrift, Aufbewahrung von Wahlunterlagen}{8}
+\contentsline {section}{\numberline {\S \ensuremath {\,}16}Annahme der Wahl}{8}
+\contentsline {section}{\numberline {\S \ensuremath {\,}17}Nachr\IeC {\"u}cken von Ersatzvertretern}{8}
+\contentsline {section}{\numberline {\S \ensuremath {\,}18}Wahlpr\IeC {\"u}fung}{8}
+\contentsline {section}{\numberline {\S \ensuremath {\,}19}Fristen}{9}
+\contentsline {section}{\numberline {\S \ensuremath {\,}20}Konstituierung der Fachschaftsr\IeC {\"a}te}{9}
+\contentsline {section}{\numberline {\S \ensuremath {\,}21}Wahl des Studentenrats}{9}
+\contentsline {section}{\numberline {\S \ensuremath {\,}22}Konstituierung des Studentenrats}{9}
+\contentsline {section}{\numberline {\S \ensuremath {\,}23}\IeC {\"U}bergangsbestimmungen}{9}
